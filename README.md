@@ -18,7 +18,7 @@ The analysis utilizes data sources such as e-commerce website analytics, custome
 SQL, Jupyter notebooks, data scripts, and visualizations showcasing the analysis of customer behavior and strategies for conversion rate optimization.
 
 ## Results
-<img src="./img/Customer Behavior for E-Commerce Conversion.jpg" width=100%>
+<img src="./img/Customer Behavior for E-commerce Conversion.jpg" width=100%>
 In the conducted analysis, it was observed that a significant portion of users visits the e-commerce platform without placing orders. The highest drop rate was identified between the View Product Detail Page (PDP) and Promo Input stages, indicating that many users do not utilize promotional offers when placing orders. Potential reasons for low promo usage include specific promo requirements or expired promotions. Additionally, a notable increase in the percentage from View Microsite to View PDP suggests that a considerable number of users directly navigate to PDP without going through the View Microsite stage. This implies that users prefer direct links leading to specific products, often used by affiliates to promote particular items.
 
 ## License
